@@ -23,9 +23,10 @@ Spring Boot + React Setting 참고
 <br/><br/>
 
 Docker : https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html
+<br/>
 Docker + Nginx + ETC Setting
- - http://labs.brandi.co.kr/2018/05/25/kangww.html (Docker+Nginx+Node js)
- - https://gompro.postype.com/post/1735800 (Docker+Nginx+MongoDB+Redis)
+ - http://labs.brandi.co.kr/2018/05/25/kangww.html **(Docker+Nginx+Node js)**
+ - https://gompro.postype.com/post/1735800 **(Docker+Nginx+MongoDB+Redis)**
  <br/><br/>
  
  <br/><br/> 
