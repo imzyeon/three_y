@@ -28,6 +28,7 @@ Docker + Nginx + ETC Setting
  - http://labs.brandi.co.kr/2018/05/25/kangww.html **(Docker+Nginx+Node js)**
  - https://gompro.postype.com/post/1735800 **(Docker+Nginx+MongoDB+Redis)**
  <br/><br/>
+Intellij 단축키 : https://okdevtv.com/md/#intellij/intellij-shortcuts.md
  
  <br/><br/> 
 ### 다른 공유 사항있으면 같이 기재 해주세요!!!
