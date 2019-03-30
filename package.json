@@ -1,0 +1,16 @@
+{
+  "name": "three_y",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon DemoServer.js"
+  },
+  "description": "Test Node Server",
+  "author": {
+    "name": "THREE_Y"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "uuid": "^3.2.1"
+  }
+}
